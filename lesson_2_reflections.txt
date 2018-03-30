@@ -7,6 +7,10 @@ Staging area allows you more flexibility to decide which files to add,commit and
 How can you use the staging area to make sure you have one commit per logical change?
 Add only the files effected by the change.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Could be creating a version that has major changes and is experimental like for example a MAC version for a windows game.
+Branching would make sure that the main version does not get broken while experimenting wit the mac version.
+
 
 
 
