@@ -4,5 +4,9 @@ It creates the hidden meta data directory required to be able to do cimmits and 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area allows you more flexibility to decide which files to add,commit and make changes before the final decision.
 
+How can you use the staging area to make sure you have one commit per logical change?
+Add only the files effected by the change.
+
+
 
 
